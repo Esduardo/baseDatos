@@ -1,0 +1,27 @@
+{
+    "comidas":[
+        {
+            "id":1,
+            "nombre":"torta",
+            "precio":35
+        },
+        {
+            "id":2,
+            "nombre":"Quesadilla",
+            "precio":30
+        }
+    ],
+
+    "bebidas":[
+        {
+            "id":1,
+            "nombre":"Coca-coLA",
+            "precio":17
+        },
+        {
+            "id":2,
+            "nombre":"LimoNada",
+            "precio":15
+        }
+    ]
+}
